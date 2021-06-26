@@ -26,20 +26,23 @@
 > Web client is web browser like chrome, firefox etc.
 <p>&nbsp;</p>
 
-* Resource
+* 1.3Resource
 > Web server do manage the web resource and provide it. Resource is all kinds of the file. (can be program as well.)
 <p>&nbsp;</p>
-    * Media Type <br /> 
-    * dsdf
-Web server attach the MIME type to all the HTTP object data. MIME means "Multipurpose Internet Mail Extensions" <br /> 
-        * HTML: text/html
-        * plain ASCII: text/plain
-        * JPEG: image/jpeg
-        * GIF: image/gif
-        * Apple quick time video: video/quicktime
-        * MS ppt: application/vnd.ms-powerpoint
-    * URI "uniform resourse identifier <br /> 
-Each web server resource have their own name, so client can point out specific resource. the name of the resource is URI, and It's like postbox of Internet. URI hava two kinds of type URL and URN. <br /> 
+1.3.1Media Type
+> Web server attach the MIME type to all the HTTP object data. MIME means "Multipurpose Internet Mail Extensions" <br /> 
+* HTML: text/html
+* plain ASCII: text/plain
+* JPEG: image/jpeg
+* GIF: image/gif
+* Apple quick time video: video/quicktime
+* MS ppt: application/vnd.ms-powerpoint
+
+1.3.2 URI "uniform resourse identifier
+> Each web server resource have their own name, so client can point out specific resource. the name of the resource is URI, and It's like postbox of Internet. URI hava two kinds of type URL and URN.
+
+
+
 
 
 
