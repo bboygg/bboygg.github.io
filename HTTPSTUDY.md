@@ -12,15 +12,14 @@
 
 ### HTTP Getting started 
 
-HTTP: Hypertext Transfer Protocol
+* HTTP: Hypertext Transfer Protocol
 > Languages for Internet Wrold.
-
-1.1 HTTP: Melti Media Delivery 
+<p>&nbsp;</p>
+* HTTP: Melti Media Delivery 
 > HTTP using reliable data transfer protocol.
-
-1.2 Web client and sever
-  1.2 sdf
-  sdf
+<p>&nbsp;</p>
+* Web client and sever
+  * 
 
 
 
