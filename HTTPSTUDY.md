@@ -26,7 +26,7 @@
 > Web client is web browser like chrome, firefox etc.
 <p>&nbsp;</p>
 
-* 1.3Resource
+#### 1.3Resource
 > Web server do manage the web resource and provide it. Resource is all kinds of the file. (can be program as well.)
 <p>&nbsp;</p>
 1.3.1Media Type
@@ -56,8 +56,10 @@ Ex. http://www.joes-hardware.com/specials/saw-blade.gif<br />
 
 1.3.4 URN "Uniform resource name" <br />
 
-* 1.4 Transaction
-* 
+#### 1.4 Transaction
+> HTTP transaction are consist of request message and response message.
+> Request: GET /specials/saw-blade.gif HTTP/1.0 Host: www.joes-hardware.com
+> Response: HTTP/1.0 200 OK Content-type: image/gif Content-length: 8572 >>> "includes result of transation"
 
 
 
