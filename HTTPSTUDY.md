@@ -61,6 +61,7 @@ Ex. http://www.joes-hardware.com/specials/saw-blade.gif<br />
 > Request: GET /specials/saw-blade.gif HTTP/1.0 Host: www.joes-hardware.com<br />
 > Response: HTTP/1.0 200 OK Content-type: image/gif Content-length: 8572 >>> "includes result of transation"<br />
 
+1.4.1 Method <br / >
 
 
 
