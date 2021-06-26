@@ -10,7 +10,7 @@
 
 
 
-### HTTP Getting started 
+## HTTP Getting started 
 
 * HTTP: Hypertext Transfer Protocol
 > Languages for Internet World.
@@ -29,7 +29,7 @@
 #### 1.3Resource
 > Web server do manage the web resource and provide it. Resource is all kinds of the file. (can be program as well.)
 <p>&nbsp;</p>
-1.3.1Media Type
+###1.3.1Media Type
 
 
 > Web server attach the MIME type to all the HTTP object data. MIME means "Multipurpose Internet Mail Extensions" <br />
@@ -56,10 +56,12 @@ Ex. http://www.joes-hardware.com/specials/saw-blade.gif<br />
 
 1.3.4 URN "Uniform resource name" <br />
 
-#### 1.4 Transaction
-> HTTP transaction are consist of request message and response message.
-> Request: GET /specials/saw-blade.gif HTTP/1.0 Host: www.joes-hardware.com
-> Response: HTTP/1.0 200 OK Content-type: image/gif Content-length: 8572 >>> "includes result of transation"
+### 1.4 Transaction
+> HTTP transaction are consist of request message and response message.<br />
+> Request: GET /specials/saw-blade.gif HTTP/1.0 Host: www.joes-hardware.com<br />
+> Response: HTTP/1.0 200 OK Content-type: image/gif Content-length: 8572 >>> "includes result of transation"<br />
+
+
 
 
 
