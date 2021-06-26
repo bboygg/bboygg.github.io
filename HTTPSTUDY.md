@@ -26,7 +26,7 @@
 > Web client is web browser like chrome, firefox etc.
 <p>&nbsp;</p>
 
-#### 1.3Resource
+### 1.3Resource
 > Web server do manage the web resource and provide it. Resource is all kinds of the file. (can be program as well.)
 <p>&nbsp;</p>
 ###1.3.1Media Type
