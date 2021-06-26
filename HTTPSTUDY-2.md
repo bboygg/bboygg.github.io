@@ -14,7 +14,7 @@ URL also can use difrent Protocol like
 
 
 ### 2.2 URL Syntax 
-> "<scheme>://<username>:<password>@host:<port>/<path>;<parameter>?<Question>#<fragement>"
+> scheme://username:password@host:port/path;parameter?Query#fragement
 
 * Scheme - Protocol
 * User name
