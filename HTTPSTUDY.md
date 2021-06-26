@@ -30,7 +30,11 @@
 > Web server do manage the web resource and provide it. Resource is all kinds of the file. (can be program as well.)
 <p>&nbsp;</p>
 1.3.1Media Type
-> Web server attach the MIME type to all the HTTP object data. MIME means "Multipurpose Internet Mail Extensions" <br /> 
+
+
+> Web server attach the MIME type to all the HTTP object data. MIME means "Multipurpose Internet Mail Extensions" <br />
+
+
 * HTML: text/html
 * plain ASCII: text/plain
 * JPEG: image/jpeg
