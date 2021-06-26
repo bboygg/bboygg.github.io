@@ -43,7 +43,21 @@
 * MS ppt: application/vnd.ms-powerpoint
 
 1.3.2 URI "uniform resourse identifier
-> Each web server resource have their own name, so client can point out specific resource. the name of the resource is URI, and It's like postbox of Internet. URI hava two kinds of type URL and URN.
+> Each web server resource have their own name, so client can point out specific resource. the name of the resource is URI, and It's like postbox of Internet. URI hava two kinds of type URL and URN. <br />
+
+Ex. http://www.joes-hardware.com/specials/saw-blade.gif<br />
+* http:// > Use HTTP protocl
+* www.joes-hardware.com > move to ~.com
+* /specials/saw-blade.gif > get this resource <br />
+
+1.3.3 URL "Uniform resource locator"
+> URL devided by three part. 1. Protocol, 2. Address, 3. resource
+> Most of URI is URL in todays. <br />
+
+1.3.4 URN "Uniform resource name" <br />
+
+* 1.4 Transaction
+* 
 
 
 
