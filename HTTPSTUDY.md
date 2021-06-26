@@ -25,6 +25,7 @@
     * Basic mechanism is client request the HTTP Object to Server (HTTP request) , and server send request Data via HTTP  to client (HTTP response).
 > Web client is web browser like chrome, firefox etc.
 <p>&nbsp;</p>
+
 * Resource
 > Web server do manage the web resource and provide it. Resource is all kinds of the file. (can be program as well.)
     * Media Type - Web server attach the MIME type to all the HTTP object data
