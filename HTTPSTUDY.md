@@ -61,7 +61,28 @@ Ex. http://www.joes-hardware.com/specials/saw-blade.gif<br />
 > Request: GET /specials/saw-blade.gif HTTP/1.0 Host: www.joes-hardware.com<br />
 > Response: HTTP/1.0 200 OK Content-type: image/gif Content-length: 8572 >>> "includes result of transation"<br />
 
-1.4.1 Method <br / >
+1.4.1 Method <br />
+HTPP request message have each of method. and this method say to server that what server should do. 
+* GET: send requested resource from server to client
+* PUT: save the data which sent by client as specified resource.
+* DELETE: Delete the resource from server
+* POST: send the client data server gateway application.
+* HEAD: In response, just send header part
+
+
+1.4.2 Status Code
+
+all the reponse message sending with status code together. Status code is three digit that inform to client  about  the request was successful or need further action.
+
+* 200: All right! the reponse came out correctly.
+* 302: Re reuest it. or ask different location to get resource.
+* 404: Can't found resource.
+
+Normally, HTTP send the reason phrase together. like below
+
+200 OK / 200 Document attached / 200 Success / 200 All's cool, dude
+
+1.4.3 
 
 
 
