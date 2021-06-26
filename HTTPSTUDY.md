@@ -30,6 +30,7 @@
 > Web server do manage the web resource and provide it. Resource is all kinds of the file. (can be program as well.)
 <p>&nbsp;</p>
     * Media Type <br /> 
+    * dsdf
 Web server attach the MIME type to all the HTTP object data. MIME means "Multipurpose Internet Mail Extensions" <br /> 
         * HTML: text/html
         * plain ASCII: text/plain
