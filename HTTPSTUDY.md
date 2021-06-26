@@ -28,6 +28,7 @@
 
 * Resource
 > Web server do manage the web resource and provide it. Resource is all kinds of the file. (can be program as well.)
+
     * Media Type - Web server attach the MIME type to all the HTTP object data
     * > MIME: Multipurpose Internet Mail Extensions, the example is below. 
     * 
